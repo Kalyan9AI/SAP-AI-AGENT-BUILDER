@@ -1,6 +1,6 @@
-# CursoruAI Project
+# SAP AI Agent Builder
 
-This repository contains the source code for the CursoruAI project.
+This repository contains the source code for the SAP AI Agent Builder project.
 
 ## Getting Started
 
